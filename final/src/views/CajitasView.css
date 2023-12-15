@@ -1,0 +1,23 @@
+.CajitasView {
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+
+}
+  
+.CajitasView img {
+    max-width: 100%;
+}
+
+.retorno {
+    background-color: #4CAF50; /* Color de fondo */
+    border: none; /* Sin borde */
+    color: white; /* Color del texto */
+    padding: 15px 32px; /* Relleno */
+    text-align: center; /* Alineación del texto */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Mostrar como bloque */
+    font-size: 16px; /* Tamaño de fuente */
+    margin: 20px 20px; /* Margen */
+    cursor: pointer; /* Cursor */
+}
